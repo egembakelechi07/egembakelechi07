@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hi there I'm egembakelechi07👋
+Backend developer based in Lagos, Nigeria. I build APIs and microservices, mostly in .NET. I like systems that are clean under the hood even when nobody's looking.
+
 
 <!--
 **egembakelechi07/egembakelechi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
