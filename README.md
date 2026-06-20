@@ -1,7 +1,6 @@
 ## Hi there👋
 ---
 I'm KC, A Backend developer based in Lagos, Nigeria. I build APIs and microservices, mostly in .NET. I like systems that are clean under the hood even when nobody's looking.
-Outside work: PUBG Mobile on an iPhone 13, interior design rabbit holes, and working out three days a week.
 ---
 Tools I Use
 - c# (ASP.NET)
