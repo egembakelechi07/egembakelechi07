@@ -7,16 +7,13 @@ Tools I Use
 - Entity Framework Core
 - PostgreSQL
 ---
-Patterns & Libraries
-- CQRS(MediatR)
----
 What i'm currently working  on
 DevLog: A personal clean architectrure WebAPI i'm building from scratch to stay sharp for developers to log and track their activities.
 ---
 Fun Fact 
 - I'm a casual PUBG Gamer and i love watching anime
 - My hobbies are gaming, watching anime and consuming very unimportant information
-- i have a tendency to store random string of numbers in my head 
+- i have a tendency to store random strings of numbers in my head 
 
 <!--
 **egembakelechi07/egembakelechi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
