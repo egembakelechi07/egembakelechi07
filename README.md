@@ -7,7 +7,7 @@ Tools I Use
 - Entity Framework Core
 - PostgreSQL
 ---
-What i'm currently working  on
+What i'm currently working on
 DevLog: A personal clean architectrure WebAPI i'm building from scratch to stay sharp for developers to log and track their activities.
 ---
 Fun Fact 
