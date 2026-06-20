@@ -2,7 +2,7 @@
 I'm KC, A Backend developer based in Lagos, Nigeria. I build APIs and microservices, mostly in .NET. I like systems that are clean under the hood even when nobody's looking.
 ---
 Tools I Use
-- c# (ASP.NET)
+- C# (ASP.NET)
 - Entity Framework Core
 - PostgreSQL
 
